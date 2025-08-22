@@ -12,3 +12,11 @@ Dense Layer → Fully connected output
 
 Sigmoid Activation → Binary classification (Positive / Negative)
 
+
+---
+
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://imdbmoviereview.streamlit.app/)
+
+---
+
